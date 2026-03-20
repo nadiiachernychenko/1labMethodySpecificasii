@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <RunConfiguration>
+    <ResultsDirectory>TestResults</ResultsDirectory>
+    <MaxCpuCount>1</MaxCpuCount>
+  </RunConfiguration>
+
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" enabled="True"/>
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
